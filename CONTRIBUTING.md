@@ -1,0 +1,1 @@
+Keep concepts language-independent, examples runnable, and implementations tested. Explain assumptions, complexity, and edge cases. Prefer clarity over cleverness.\n

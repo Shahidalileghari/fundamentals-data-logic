@@ -1,0 +1,1 @@
+Educational repository only. Review and threat-model sample code before production use. Do not commit secrets or private data.\n
