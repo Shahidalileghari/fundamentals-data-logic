@@ -32,8 +32,3 @@ No third-party dependencies are required.
 3. Algorithms and data structures.
 4. Debugging, testing, and software design.
 5. Complete projects and explain design trade-offs.
-
-## GitHub description
-A practical software engineering foundations course covering computational thinking, logic, programming, data representation, algorithms, data structures, complexity analysis, debugging, testing, and core software design, with Python examples and hands-on projects.
-
-This is a fundamentals course, not a complete treatment of operating systems, networking, databases, or distributed systems.
